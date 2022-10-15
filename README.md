@@ -12,5 +12,5 @@ Built using:
 
 In the /personal-portfolio, you can run:
 
-#### Inspired by <a href='https://github.com/judygab'>
-judygab</a>
+#### Inspired by 
+<a href='https://github.com/judygab'>judygab</a>
